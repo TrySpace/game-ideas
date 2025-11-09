@@ -1,2 +1,2 @@
-# game-ideas
-Game ideas
+# Game Ideas
+Everything is a remix of reality.

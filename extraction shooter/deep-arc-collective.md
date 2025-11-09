@@ -32,3 +32,8 @@ These will have frantic extraction sequences like DRG, where you have to get bac
 Depending on the type of level different vehicles will be available.
 Underground missions will have drillers predeployed.
 Open worlds will have basic transports and aerial vehicles for bigger battles.
+
+
+## Tutorial
+Starting a character, you'll start out as a young kid, who goes through the basic training for the first time, then skips to years later and you do some advanced training course. This serves mainly as world-building and storytelling and can be optionally skipped.
+This sequence creates a similar but shorter more streamlined experience as fallout 4.
