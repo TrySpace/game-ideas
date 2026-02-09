@@ -1,6 +1,6 @@
 # Deep ARC Collective
 Inspired by Deep Rock Galactive and ARC Raiders; Your life consists of working for an exploitative corporation like DRG, but in a post-apocalypse, and everyone kindof likes it. The world is a combination of drab and gritty post-apocalypse, but with elements of cyberpunk.
-The world has been mostly taken over by machines, but not all surfaces. Certain countries and islands have resilient strongholds of human resistance.
+The world has been mostly taken over by insect-machine hybrids, but not all surfaces. Certain countries and islands have resilient strongholds of human resistance. They are a biological insectoid pest, which has silicon-based DNA spliced in.
 Both have a presence in orbit as well as underground. Many procedural missions are played underground like DRG to exterminate machine-strongholds, but also above ground, where desolate landscapes are generated.
 A core of designed open world levels are cycled with different main missions. Some of those levels are very large and operate more like PlanetSide 2, where different parts are constantly shifting between human and machine controlled, but only the human parts are playable. (There is possibility for human curation and control by a developers team that maintains sporadic interaction and novel events.)
 Nearly all human technology is human-operated to avoid hackability by the machines.
