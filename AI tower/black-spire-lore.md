@@ -1,4 +1,4 @@
-# A gigantic vertical datacenter tower filled with GPUs and servers.
+# The Black Spire
 
 Once started as a modestly sized datacenter in a bustling metropolis, once nanostructures came into the picture, the toewr exponentially grew vertically year by year; it got reconstructed and renovated throughout the decades and eventually grew at a steady pace until people lost track, and the surrounding neighbourhoods faded away and transformed into technological centers.
 Its increasing height eventually required a deeper and deeper foundation. Even as its square footage increased over decennia of buyouts of the surrounding properties, only the base grew in size. It was increasingly cheaper and more beneficial to build vertically, resulting in the base taking on a pyramidal shape.
@@ -9,7 +9,7 @@ Noone really knows how high it now goes, some say it reaches to outer space, oth
 The rumors go any which way but one thing I know for sure: I was hired to repair the generator at 6xb.
 
 
-I step outside the Cabuloid, and before me stands a fractured black slab, glistening in the moonlight. The history of the Black Spire goes back farther than basic education has taught me. Black Spire only became the colloquial name after it was reinforced after decades of riots and civil wars. Luckily that period is far behind us, but its legacy and remains are still evident. The once flawless exterior is now marked with a dark history. Officially it is now the Fortress of Humanity, before that it was the Tower of Humanity, before that it was called The Tower of Knowledge, before that MegaTech Tower, before that... I don't remember, I don't even know if anyone does.
+I step out of the cab, and before me stands a fractured black slab, glistening in the moonlight. The history of the Black Spire goes back farther than basic education has taught me. Black Spire only became the colloquial name after it was reinforced after decades of riots and civil wars. Luckily that period is far behind us, but its legacy and remains are still evident. The once flawless exterior is now marked with a dark history. Officially it is now the Fortress of Humanity, before that it was the Tower of Humanity, before that it was called The Tower of Knowledge, before that MegaTech Tower, before that... I don't remember, I don't even know if anyone does.
 
 The district looks deserted, but it is not safe, many ambushes may lurk as is to be expected, but my Cab escort will keep me safe until I'm inside.
 I climb the megalithic stairs, each step just ever so slightly too high to comfortably climb. I trip about 15 times before reaching the top. The escort hands me my toolbag and I strap it on my back.
@@ -18,3 +18,14 @@ The security eyes are perceiving my every move. They already know who I am and w
 
 Mechanical butterflies start surrounding me, just a security scan. Their metallic wing reflect eachothers red and green communication lights, resulting in a fascinating display that almost feels like they are having a little rave in the sky. Especially with the increasing mechanical thumping coming through the grates from what must be the basement levels. They rhythmically beep to eachother in some sort of machine code. Somehow the symphony of light and sound results in the entrance opening slowly. I enter.
 
+## Elevation
+The lobby is surprisingly small, disturbign really considering the size of the entrance. Yet the entrance door is at least 2 meters thick. It closes behind me quietly. I wouldn't have noticed if I hadn't looked behind me.
+Another scan, this time with clearly present scanlines covering my body. Might as well be purely intimidation since I've already been scanned by at least a dozen flybots.
+I don't question it, I've repaired generators like this hundreds of times before. But not here. Not in the most secure and important communication hubs on the entire planet. Perhaps of the entire solar system.
+The elevator opens, I step inside. Inside, a spotlight contrasts an incredibly comfortable couch at the right side of the elevator. A screen pops on on the other side. I take a seat.
+This is going to be a long ride.
+The elevator starts buzzing as I feel slightly weightless, then I bump back into my seat. I barely feel any movement. They must use some real fancy technology to make many G forces feel like nothing.
+The screen shows a familiar screen: "LOG IN". I do. I kick back and press play on my playlist. I close my eyes and listen to what I was listening to before I stepped out of the cab.
+
+## Throwback
+  Before doing this I was
